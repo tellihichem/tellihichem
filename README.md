@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner / Header -->
-<img src="banner.png" alt="Hichem Telli – Computer Vision & Generative AI Researcher" width="100%"/>
+<img src="assets/images/banner.png" alt="Hichem Telli – Computer Vision & Generative AI Researcher" width="100%"/>
 
 <!-- Status badges -->
 <p>

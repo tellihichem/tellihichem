@@ -204,7 +204,7 @@ img {
 .hero-bg-image {
   position: absolute;
   inset: 0;
-  background: url('hero_bg.png') center/cover no-repeat;
+  background: url('../images/hero_bg.png') center/cover no-repeat;
   opacity: 0.35;
   z-index: 0;
 }
@@ -672,6 +672,15 @@ img {
   font-size: 1.5rem;
   font-weight: 700;
   color: #fff;
+}
+
+.avatar-photo {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center top;
+  display: block;
 }
 
 .avatar-ring {
