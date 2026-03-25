@@ -89,6 +89,7 @@ Beyond autonomous driving, I am deeply passionate about **Artificial General Int
 
 | Year | Venue | Title | Links |
 |------|-------|-------|-------|
+| 2026 | `QIAS 2026` 🥇 | **CVPD at QIAS 2026: RAG-Guided LLM Reasoning** for Al-Mawarith Share Calculation and Heir Allocation *(1st Place)* | — |
 | 2026 | `CVPRW 2026` 🏆 | **Conflict-Aware Multimodal Fusion** for Ambivalence and Hesitancy Recognition *(2nd Place)* | [arXiv](https://arxiv.org/abs/2603.15818) |
 | 2025 | `CoRR / QIAS 2025` | **CVPD at QIAS 2025 Shared Task:** An Efficient Encoder-Based Approach for Islamic Inheritance Reasoning | [arXiv](https://doi.org/10.48550/arXiv.2509.00457) · [DBLP](https://dblp.org/rec/journals/corr/abs-2509-00457.html) |
 | 2021 | `Traitement du Signal · Journal` | **A Novel Multi-Level Pyramid Co-Variance Operators** for Estimation of Personality Traits and Job Screening Scores | [DOI](https://doi.org/10.18280/ts.380301) · [DBLP](https://dblp.org/rec/journals/tds/TelliSBDTL21.html) |
